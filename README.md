@@ -4,7 +4,7 @@
 
 ## ダウンロード
 
-最新版：**Ver 1.3.0**（2026-11-07）。バージョンはゲームのタイトル画面の左下に出ます。
+最新版：**Ver 1.4.0**（2026-11-07）。バージョンはゲームのタイトル画面の左下に出ます。
 
 **[▶ 最新版をダウンロード（Windows・zip 約35MB）](https://github.com/ukkr423/SteelFrontline-Download/releases/latest/download/SteelFrontline-Windows.zip)**
 
